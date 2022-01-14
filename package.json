@@ -10,7 +10,7 @@
     "format": "prettier --write 'src/**/*.{js,jsx,json}'"
   },
   "dependencies": {
-    "auth0-js": "9.11.3",
+    "auth0-js": "9.13.2",
     "prop-types": "15.7.2",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
